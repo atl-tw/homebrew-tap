@@ -2,10 +2,10 @@ require "formula"
 
 class Caser < Formula
   desc 'A command line tool for converting between common multiword token formats'
-  homepage 'https://github.com/atl-tw'
-  url "https://github.com/atl-tw/caser/releases/download/1.0.68/caser-1.0.68-anyos.zip"
-  sha256 "d07c59ea047a8a3c5b6dbdb5f8c61e3f7dabe7dd090970cd2c507c4da72a66ed"
-  version '1.0.68'
+  homepage 'https://github.com/atl-tw/caser'
+  url "https://github.com/atl-tw/caser/releases/download/1.0.70/caser-1.0.70-anyos.zip"
+  sha256 "7443177422b4cead15a588230bdfb817e64363ce6a4def5f77633edef62cdaf1"
+  version '1.0.70'
 
   # depends_on 'gnu-sed'
 
