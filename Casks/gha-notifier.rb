@@ -3,11 +3,11 @@ cask "gha-notifier" do
 
   # Define URLs for different architectures
   if Hardware::CPU.arm?
-    url "https://github.com/atl-tw/gha-notifier/releases/download/1.0.68/gha-notifier-ARM_64_1.0.68.dmg"
-    sha256 "bcf7b32d05ddda90ac9a1944bf6690ae9cf6b6c608b9bbebacf66af05c050a4f"
+    url "https://github.com/atl-tw/gha-notifier/releases/download/1.0.69/gha-notifier-ARM_64_1.0.69.dmg"
+    sha256 "52f90ea86ac29773e394b9c6d60c3fa6837edf04bf9c077dfdae3c1303300bb9"
   else
-    url "https://github.com/atl-tw/gha-notifier/releases/download/1.0.68/gha-notifier-x86_64_1.0.68.dmg"
-    sha256 "ceddbfcc2ab2a5df0bd48c91d33c941212a2f0a503effa7cba380d8d47c6da7d"
+    url "https://github.com/atl-tw/gha-notifier/releases/download/1.0.69/gha-notifier-x86_64_1.0.69.dmg"
+    sha256 "a94a8c3a7b1f8b44e94b0eef6b77dea9b83caaab59f50c45a06880277b9fb7f6"
   end
 
   name "GitHub Actions Notifier"
