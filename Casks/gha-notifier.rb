@@ -7,7 +7,7 @@ cask "gha-notifier" do
     sha256 "cfbaca8b943752dfa9a97aff1f3902f649cb5b94cbece55227bb70d44e3a1118"
   else
     url "https://github.com/atl-tw/gha-notifier/releases/download/1.0.67/gha-notifier-x86_64_1.0.67.dmg"
-    sha256 :"cfbaca8b943752dfa9a97aff1f3902f649cb5b94cbece55227bb70d44e3a1118"
+    sha256 "cfbaca8b943752dfa9a97aff1f3902f649cb5b94cbece55227bb70d44e3a1118"
   end
 
   name "GitHub Actions Notifier"
