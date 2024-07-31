@@ -10,7 +10,7 @@ cask "gha-notifier" do
     sha256 :"cfbaca8b943752dfa9a97aff1f3902f649cb5b94cbece55227bb70d44e3a1118"
   end
 
-  name "GitHub Actions Notifier""
+  name "GitHub Actions Notifier"
   homepage "https://github.com/atl-tw/gha-notifier" # Replace with the application's homepage
 
   app "GitHub Actions Notifier.app"
